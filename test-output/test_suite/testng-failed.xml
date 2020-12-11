@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [test_suite]" guice-stage="DEVELOPMENT">
+  <test name="timeOut(failed)">
+    <classes>
+      <class name="TestNG_Examples.timeOut">
+        <methods>
+          <include name="testcase1"/>
+        </methods>
+      </class> <!-- TestNG_Examples.timeOut -->
+    </classes>
+  </test> <!-- timeOut(failed) -->
+</suite> <!-- Failed suite [test_suite] -->
